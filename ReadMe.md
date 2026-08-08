@@ -26,7 +26,17 @@
 
 ### 🙋‍♂️ A little about me
 
-I'm an **AIML student** turning into a **Full Stack Software Engineer**, one project at a time. I love building real applications, digging into JavaScript internals, and figuring out how things work under the hood — then breaking them just to fix them again. 😄
+🚀 On a mission to build scalable, production-grade web applications that solve real problems — not just tutorials.
+
+🔭 Currently Building: Full-stack, industry-level projects with React, Node.js, and Next.js.
+
+⚙️ Core Toolkit: C, Java, and JavaScript — sharpening data structures, algorithms, and logic along the way.
+
+🌱 Learning Path: Going deep into AI Development and DevOps (Docker, AWS) to build smarter, more deployable systems.
+
+⚡ The Goal: Close the gap between high-performance backend code and intuitive, human-centered UI/UX — building things that work well _and_ feel right.
+
+📈 Long-Term Vision: Become the kind of engineer who can take an idea from a blank repo to a scaled, production-ready product — end to end.
 
 </td>
 <td width="40%" align="center">
